@@ -1,0 +1,85 @@
+*, *:before, *:after{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    background-image:  url(fondmenu.jpeg);
+}
+.info{
+    background-image: url(fondoarriba.jpeg);
+    height: 30px;
+    width: 100vw;
+    justify-content: space-between;
+    
+    box-shadow: 5px 0 10px rgba(0, 0, 0, .3); 
+    
+}
+
+.cel_email{
+    font-size: 13px;
+    color:rgb(000, 150, 000);
+    text-decoration: none;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+    padding: 7px;
+    
+
+}
+.menu{
+    background-color: rgb(255, 255, 255);
+    height: 75px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #fff;
+    box-shadow: 5px 0 10px rgba(0, 0, 0, .6); 
+}
+.img_logo{
+    height: 65px;
+    width: 65px;
+    margin-left: 17px;
+    margin-top: 2px;
+    align-items: center;
+}
+.logo{
+    color: rgba(105, 105, 105, 0.961);
+    font-size: 30px;
+    padding: 10px;
+    padding-left: 0;
+    font-weight: bold; 
+    text-align: left;
+}
+
+.menu_options{
+    display: flex;
+    list-style: none;
+    margin-right: 40px;
+}
+
+.menu_options li {
+    border-radius: 20px;
+    margin: 0 5px;
+}
+.menu_options li a{
+    padding: 7px 13px;
+    text-decoration: none;
+    font-size: 12px;
+    display: block;
+    text-transform: uppercase;
+    color: rgba(105, 105, 105, 0.961);
+}
+.menu_options li:hover {
+    background-color: rgba(0, 0, 0, .1);
+    transition: .4s;
+}
+
+
+
+
+   

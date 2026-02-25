@@ -1,0 +1,212 @@
+2022-11-17 07:01:36 notice: Please change the value of `Security.salt` in `ROOT/config/app_local.php` to a random value of at least 32 characters.
+Request URL: /
+Trace:
+Cake\Error\Debugger::checkSecurityKeys() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Error\Debugger.php, line 1147
+include C:\xampp\htdocs\MyM2\templates\Pages\home.php, line 98
+Cake\View\View::_evaluate() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\View\View.php, line 1220
+Cake\View\View::_render() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\View\View.php, line 1177
+Cake\View\View::render() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\View\View.php, line 808
+Cake\Controller\Controller::render() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 773
+App\Controller\PagesController::display() C:\xampp\htdocs\MyM2\src\Controller\PagesController.php, line 65
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 58
+Cake\Http\Server::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\MyM2\webroot\index.php, line 40
+
+2022-11-18 18:42:24 notice: Undefined property: UsersController::$Authentication in C:\xampp\htdocs\MyM2\src\Controller\UsersController.php on line 111
+Request URL: /Users/login.php
+Referer URL: http://localhost/MyM2/
+Trace:
+Cake\Controller\Controller::__get() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 337
+App\Controller\UsersController::beforeFilter() C:\xampp\htdocs\MyM2\src\Controller\UsersController.php, line 111
+Cake\Event\EventManager::_callListener() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 309
+Cake\Event\EventManager::dispatch() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 286
+Cake\Controller\Controller::dispatchEvent() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php, line 92
+Cake\Controller\Controller::startupProcess() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 644
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 129
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 77
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 58
+Cake\Http\Server::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\MyM2\webroot\index.php, line 40
+
+2022-11-18 18:48:46 notice: Undefined property: UsersController::$Authentication in C:\xampp\htdocs\MyM2\src\Controller\UsersController.php on line 111
+Request URL: /Users/login.php
+Referer URL: http://localhost/MyM2/
+Trace:
+Cake\Controller\Controller::__get() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 337
+App\Controller\UsersController::beforeFilter() C:\xampp\htdocs\MyM2\src\Controller\UsersController.php, line 111
+Cake\Event\EventManager::_callListener() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 309
+Cake\Event\EventManager::dispatch() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 286
+Cake\Controller\Controller::dispatchEvent() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php, line 92
+Cake\Controller\Controller::startupProcess() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 644
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 129
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 77
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 58
+Cake\Http\Server::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\MyM2\webroot\index.php, line 40
+
+2022-11-18 18:50:47 notice: Undefined property: UsersController::$Authentication in C:\xampp\htdocs\MyM2\src\Controller\UsersController.php on line 112
+Request URL: /Users/login.php
+Referer URL: http://localhost/MyM2/
+Trace:
+Cake\Controller\Controller::__get() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 337
+App\Controller\UsersController::beforeFilter() C:\xampp\htdocs\MyM2\src\Controller\UsersController.php, line 112
+Cake\Event\EventManager::_callListener() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 309
+Cake\Event\EventManager::dispatch() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 286
+Cake\Controller\Controller::dispatchEvent() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php, line 92
+Cake\Controller\Controller::startupProcess() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 644
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 129
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 77
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 58
+Cake\Http\Server::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\MyM2\webroot\index.php, line 40
+
+2022-11-18 18:51:10 notice: Undefined property: UsersController::$Authentication in C:\xampp\htdocs\MyM2\src\Controller\UsersController.php on line 111
+Request URL: /Users/login.php
+Referer URL: http://localhost/MyM2/
+Trace:
+Cake\Controller\Controller::__get() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 337
+App\Controller\UsersController::beforeFilter() C:\xampp\htdocs\MyM2\src\Controller\UsersController.php, line 111
+Cake\Event\EventManager::_callListener() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 309
+Cake\Event\EventManager::dispatch() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 286
+Cake\Controller\Controller::dispatchEvent() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php, line 92
+Cake\Controller\Controller::startupProcess() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 644
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 129
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 77
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 58
+Cake\Http\Server::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\MyM2\webroot\index.php, line 40
+
+2022-11-18 18:51:52 notice: Undefined property: UsersController::$Authentication in C:\xampp\htdocs\MyM2\src\Controller\UsersController.php on line 111
+Request URL: /Users/login.php
+Referer URL: http://localhost/MyM2/
+Trace:
+Cake\Controller\Controller::__get() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 337
+App\Controller\UsersController::beforeFilter() C:\xampp\htdocs\MyM2\src\Controller\UsersController.php, line 111
+Cake\Event\EventManager::_callListener() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 309
+Cake\Event\EventManager::dispatch() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventManager.php, line 286
+Cake\Controller\Controller::dispatchEvent() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php, line 92
+Cake\Controller\Controller::startupProcess() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 644
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 129
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 77
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 58
+Cake\Http\Server::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\MyM2\webroot\index.php, line 40
+
+2022-11-19 14:09:46 notice: Undefined property: ProductoController::$Articles in C:\xampp\htdocs\MyM2\src\Controller\ProductoController.php on line 60
+Request URL: /producto/add
+Referer URL: http://localhost/MyM2/producto
+Trace:
+Cake\Controller\Controller::__get() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 337
+App\Controller\ProductoController::add() C:\xampp\htdocs\MyM2\src\Controller\ProductoController.php, line 60
+Cake\Controller\Controller::invokeAction() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 320
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 77
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Middleware\BodyParserMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Authentication\Middleware\AuthenticationMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php, line 124
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\RoutingMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Routing\Middleware\AssetMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+DebugKit\Middleware\DebugKitMiddleware::process() C:\xampp\htdocs\MyM2\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 73
+Cake\Http\Runner::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Runner.php, line 58
+Cake\Http\Server::run() C:\xampp\htdocs\MyM2\vendor\cakephp\cakephp\src\Http\Server.php, line 90
+[main] C:\xampp\htdocs\MyM2\webroot\index.php, line 40
+

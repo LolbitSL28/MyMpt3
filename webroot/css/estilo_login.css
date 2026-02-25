@@ -1,0 +1,28 @@
+
+.login_box{
+    align-self: center;
+    margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    height: 430px;
+    width: 30em;
+    padding-right: 35px;
+}
+
+h3{
+    padding: 25px;
+    text-align: center;
+}
+.email{
+    padding-left: 30px;
+}
+.password{
+    padding-left: 30px;
+}
+.login{
+    padding-left: 60px;
+    
+}
+.registrarse{
+    padding-left: 60px;
+}
