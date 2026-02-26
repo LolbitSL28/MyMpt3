@@ -77,7 +77,7 @@ endif;
     
     <nav class="menu">
         <div>
-            <img class="img_logo" src="webroot/img/Logo M&M (Fatima).jpeg">
+            <img class="img_logo" src="/img/Logo M&M (Fatima).jpeg">
         </div>
         <label class="logo">Abarrotes M&M🍎🥑</label>
         <ul class="menu_options">
@@ -109,26 +109,12 @@ endif;
         </ul>
     </nav>
 
-<!--Nombre de los programadores o cualquier cosa acerca de la empresa?-->
-    
-<!--div class="main">
-        <h1>Desarrolladores</h1>
-        <p>
-        • Francisco Alonso Bujanda Noriega<br>
-        • Jose Armando Campos Castro<br>
-        • Mayte Coronado Miranda<br>
-        • Lucia Gamez Ballesteros<br>
-        • Fatima Isabel Hernandez Garcia<br>
-        • Alejandra Murga Benitez<br>
-        • Karen Paola Noriega Espinoza<br>
-        • Hannah Valeria Rivas Chay
-    </div-->
 
         <section class="home" id="home">
 
     <div class="content">
         <div class="contenedor_img">
-        <img class="img_publi" src="webroot/img/productos-varios.png">
+        <img class="img_publi" src="/img/productos-varios.png" />
         </div>
         <h3>Los Mejores Productos a la Vuelta de la Esquina!!!</h3>
         <p>Nuestra mision es cubrir las necesidades de nuestros clientes vendiendo productos de la canasta básica a un precio más bajo, comparado al precio de un supermercado. Nuestra vision es crecer como empresa y dar un excelente servicio de calidad a nuestros clientes y empleados. Generando ingresos gracias a la compra y venta de mercancía. </p>
@@ -140,102 +126,102 @@ endif;
     <div class="page-content">    
     <div class="product-container">
             <h3>Doritos Nacho</h3>
-            <img src="webroot\img\imagenes_productos\doritos.png" />
+            <img src="/img/imagenes_productos/doritos.png" />
             <h1>$20</h1>
             
         </div>
 
         <div class="product-container">
             <h3>Sabritas Original</h3>
-            <img src="webroot/img/imagenes_productos/sabritas.jpg" />
+            <img src="/img/imagenes_productos/sabritas.jpg" />
             <h1>$15</h1>
             
         </div>
 
         <div class="product-container">
             <h3>Cheetos Torciditos</h3>
-            <img src="webroot/img/imagenes_productos/cheetos.jpg" />
+            <img src="/img/imagenes_productos/cheetos.jpg" />
             <h1>$25</h1>
             
         </div>
 
         <div class="product-container">
             <h3>Tostitos</h3>
-            <img src="webroot/img/imagenes_productos/tostitos.png" />
+            <img src="/img/imagenes_productos/tostitos.png" />
             <h1>$35</h1>
             
         </div>
 <!--Galletas-->
         <div class="product-container">
             <h3>Galletas Chokis</h3>
-            <img src="webroot/img/imagenes_productos/chokis.jpg" />
+            <img src="/img/imagenes_productos/chokis.jpg" />
             <h1>$20</h1>
             
         </div>
 
         <div class="product-container">
             <h3>Galletas Maria</h3>
-            <img src="webroot/img/imagenes_productos/marias.jpeg" />
+            <img src="/img/imagenes_productos/marias.jpeg" />
             <h1>$20</h1>
             
         </div>
         <div class="product-container">
             <h3>Galletas Emperador</h3>
-            <img src="webroot/img/imagenes_productos/emperador.jpg" />
+            <img src="/img/imagenes_productos/emperador.jpg" />
             <h1>$27</h1>
             
         </div>
         <div class="product-container">
             <h3>Galletas Oreo</h3>
-            <img src="webroot/img/imagenes_productos/oreo.png" />
+            <img src="/img/imagenes_productos/oreo.png" />
             <h1>$18</h1>
             
         </div>
         <div class="product-container">
             <h3>Nito</h3>
-            <img src="webroot/img/imagenes_productos/nito.jpg" />
+            <img src="/img/imagenes_productos/nito.jpg" />
             <h1>$16</h1>
             
         </div>
         <div class="product-container">
             <h3>Pinguinos Marinela</h3>
-            <img src="webroot/img/imagenes_productos/pinguinos.jpg" />
+            <img src="/img/imagenes_productos/pinguinos.jpg" />
             <h1>$25</h1>
             
         </div>
         <div class="product-container">
             <h3>Gansito Marinela</h3>
-            <img src="webroot/img/imagenes_productos/gansito.jpg" />
+            <img src="/img/imagenes_productos/gansito.jpg" />
             <h1>$15</h1>
             
         </div>
         <div class="product-container">
             <h3>Pan Blanco</h3>
-            <img src="webroot/img/imagenes_productos/panBlanco.jpg" />
+            <img src="/img/imagenes_productos/panBlanco.jpg" />
             <h1>$35</h1>
             
         </div>
         <div class="product-container">
             <h3>Tortillas de Harina</h3>
-            <img src="webroot/img/imagenes_productos/tortillas.jpg" />
+            <img src="/img/imagenes_productos/tortillas.jpg" />
             <h1>$30</h1>
             
         </div>
         <div class="product-container">
             <h3>RikoPollo</h3>
-            <img src="webroot/img/imagenes_productos/rikopolllo.jpg" />
+            <img src="/img/imagenes_productos/rikopolllo.jpg" />
             <h1>$16</h1>
             
         </div>
         <div class="product-container">
             <h3>Azucar Zulka</h3>
-            <img src="webroot/img/imagenes_productos/azucar.jpg" />
+            <img src="/img/imagenes_productos/azucar.jpg" />
             <h1>$35</h1>
             
         </div>
         <div class="product-container">
             <h3>Fabuloso</h3>
-            <img src="webroot/img/imagenes_productos/fabuloso.jpg" />
+            <img src="/img/imagenes_productos/fabuloso.jpg" />
             <h1>$32</h1>
             
         </div>
@@ -245,13 +231,8 @@ endif;
 
 <h3>Desarrolladores</h3>
         <p>
-        • Francisco Alonso Bujanda Noriega
-        • Jose Armando Campos Castro
-        • Mayte Coronado Miranda
-        • Lucia Gamez Ballesteros
-        • Fatima Isabel Hernandez Garcia
-        • Alejandra Murga Benitez
-        • Karen Paola Noriega Espinoza
+        • Ruben Javier Anaya Montoya
+        • Asael Duarte Salazar
         • Hannah Valeria Rivas Chay
         </p>
 </div>
