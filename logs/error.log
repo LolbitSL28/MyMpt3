@@ -41401,3 +41401,1523 @@ Stack Trace:
 
 Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
 Referer URL: http://localhost:8765/
+2026-02-26 02:15:57 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/users
+2026-02-26 02:16:03 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta
+2026-02-26 02:16:06 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 02:16:07 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 02:19:08 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 02:19:09 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 02:20:19 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 02:20:19 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 02:20:29 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 02:20:30 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:20:18 error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Productos` could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 243
+Exception Attributes: array (
+  0 => 'for alias `Productos`',
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:128
+- C:\xampp\htdocs\MyM3\src\Controller\VentaController.php:53
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php:547
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:139
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/add
+Referer URL: http://localhost:8765/users/login?redirect=%2Fventa%2Fadd
+2026-02-26 03:23:45 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:23:47 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:26:39 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:26:40 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:31:11 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:31:12 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:34:01 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:34:02 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:35:38 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:35:38 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:36:06 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:36:07 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:40:25 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:40:26 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:40:50 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:40:51 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:42:40 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/producto
+2026-02-26 03:42:42 error: [Cake\Controller\Exception\MissingActionException] Action ProductoController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'ProductoController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /producto/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/producto/add
+2026-02-26 03:42:43 error: [Cake\Controller\Exception\MissingActionException] Action ProductoController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'ProductoController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /producto/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/producto/add
+2026-02-26 03:43:32 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta
+2026-02-26 03:43:35 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:43:35 error: [Cake\Controller\Exception\MissingActionException] Action VentaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'VentaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /venta/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/venta/add
+2026-02-26 03:44:35 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/producto
+2026-02-26 03:44:37 error: [Cake\Controller\Exception\MissingActionException] Action ProductoController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'ProductoController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /producto/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/producto/add
+2026-02-26 03:44:39 error: [Cake\Controller\Exception\MissingActionException] Action ProductoController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'ProductoController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /producto/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/producto/add
+2026-02-26 03:44:41 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/categoria
+2026-02-26 03:44:43 error: [Cake\Controller\Exception\MissingActionException] Action CategoriaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'CategoriaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /categoria/webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/categoria/add
+2026-02-26 03:44:43 error: [Cake\Controller\Exception\MissingActionException] Action CategoriaController::webroot() could not be found, or is not accessible. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'CategoriaController',
+  'action' => 'webroot',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /categoria/webroot/Logo%20M&M%20(Fatima).ico
+Referer URL: http://localhost:8765/categoria/add
+2026-02-26 03:44:47 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/categoria
+2026-02-26 03:44:49 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/proveedor
+2026-02-26 03:44:53 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/empleado
+2026-02-26 03:44:59 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta
+2026-02-26 03:45:27 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/venta
+2026-02-26 03:45:40 error: [Cake\Http\Exception\MissingControllerException] Controller class Webroot could not be found. in C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 348
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:74
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\BaseApplication.php:318
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\authentication\src\Middleware\AuthenticationMiddleware.php:124
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:77
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\MyM3\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\MyM3\webroot\index.php:40
+
+Request URL: /webroot/img/Logo%20M&M%20(Fatima).jpeg
+Referer URL: http://localhost:8765/users

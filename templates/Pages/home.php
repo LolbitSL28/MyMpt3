@@ -57,7 +57,7 @@ endif;
     Abarrotes M&M
         <?= $this->fetch('title') ?>
     </title>
-    <link rel="icon" href="webroot/Logo M&M (Fatima).ico">
+    <link rel="icon" href="Logo M&M (Fatima).ico">
 
     
 
